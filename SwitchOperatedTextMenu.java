@@ -19,7 +19,7 @@ System.out.println("My name is Carla");
 break;
 case 2:
 System.out.println("You've chosen item #2");
-// do something...
+System.out.println("My name is chicka chicka slim shady.");
 break;
 case 0:
 quit = true;
